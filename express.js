@@ -34,7 +34,7 @@ console.log('app running on port ' + port);
 
 
 #From: 
-https://github.com/dexter-juntilla/web-spikes/blob/master/express-basic-server/server.js
+#https://github.com/dexter-juntilla/web-spikes/blob/master/express-basic-server/server.js
 #Lines in red are optional, depends on what modules are installed in 
-node install, in this case, if file extensions like ".jade" are used
+#node install, in this case, if file extensions like ".jade" are used
 

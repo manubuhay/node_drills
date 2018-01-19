@@ -9,8 +9,8 @@ var app = express();
 var port = process.env.PORT || 3000; //port can be customized
 
 app.use(express.static(path.join(__dirname, 'public'))); //looks for 
-files to serve inside "public" directory, usually in the same location 
-as the "server.js" file that contains all these lines of code
+//files to serve inside "public" directory, usually in the same location 
+//as the "server.js" file that contains all these lines of code
 
 //app.set('views', path.resolve(__dirname, 'app/views'));
 
